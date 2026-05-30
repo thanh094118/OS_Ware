@@ -17,3 +17,4 @@ __pycache__/
 **/.agents
 *.agents
 outputs/
+tests/
